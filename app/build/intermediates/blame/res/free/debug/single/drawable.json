@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\outline_circle_server_muted.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\outline_circle_server_muted.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\outline_circle_talking_off.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\outline_circle_talking_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\outline_circle_deafened.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\outline_circle_deafened.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\outline_circle_talking_on.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\outline_circle_talking_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\outline_circle_muted.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\outline_circle_muted.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\outline_circle.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\outline_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\ptt_indicator_background.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\ptt_indicator_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\ic_card_overflow.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\ic_card_overflow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\ic_stat_notify.png",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\ic_stat_notify.png"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\outline_circle_server_deafened.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\outline_circle_server_deafened.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\outline_circle_suppressed.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\outline_circle_suppressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\popup_menu_item_background.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\popup_menu_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable\\overlay_background.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\drawable\\overlay_background.xml"
+    }
+]

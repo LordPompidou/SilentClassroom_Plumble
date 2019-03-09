@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\dialog_server_search.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\dialog_server_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_channel.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\list_chat_item.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\list_chat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\nested_dropdown_item.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\nested_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_channel_edit.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_channel_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\ptt_corner.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\ptt_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\dialog_comment.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\dialog_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\activity_wizard.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\activity_wizard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\server_list_row.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\server_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_public_server_list.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_public_server_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_server_info.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_server_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\dialog_server_edit.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\dialog_server_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_wizard_audio.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_wizard_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\list_drawer_item.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\list_drawer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\list_certificate_item.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\list_certificate_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\channel_row.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\channel_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\channel_user_row.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\channel_user_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\token_row.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\token_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\ptt_overlay.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\ptt_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\public_server_list_row.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\public_server_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\overlay_user_row.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\overlay_user_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\overlay.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_chat.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_server_list.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_server_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_channel_list.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_channel_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_wizard_certificate.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_wizard_certificate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_wizard_welcome.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_wizard_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\list_drawer_header.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\list_drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\build\\intermediates\\res\\merged\\free\\debug\\layout\\fragment_tokens.xml",
+        "source": "C:\\Users\\Gabriel\\AndroidStudioProjects\\PPE\\Plumble\\Plumble\\app\\src\\main\\res\\layout\\fragment_tokens.xml"
+    }
+]
